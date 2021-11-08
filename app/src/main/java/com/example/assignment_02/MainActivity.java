@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
                 intent = new Intent(Intent.ACTION_VIEW, webpage);
                 startActivity(intent);
                 break;
+            case R.id.button2:
+                intent= new Intent(MainActivity.this, PracticeActivity.class);
+                startActivity(intent);
+                break;
         }
     }
 

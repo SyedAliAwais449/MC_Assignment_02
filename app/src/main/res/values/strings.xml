@@ -2,4 +2,13 @@
     <string name="app_name">Assignment_02</string>
     <string name="name">Syed Ali Awais</string>
     <string name="roll_no">Bsef18a536</string>
+    <string name="description">There are <b>17 emission points (makhārij al-ḥurūf)</b>, located in various regions of: \n
+<b>
+1 – Throat\n
+2 – Tongue\n
+3 – Lips\n
+4 – Nose\n
+5 – Mouth\n
+</b>
+Makharij and Articulation points from where the the 29 Arabic letters are produced.</string>
 </resources>
