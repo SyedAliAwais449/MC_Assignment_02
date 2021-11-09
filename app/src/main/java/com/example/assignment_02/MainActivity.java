@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
                 intent= new Intent(MainActivity.this, PracticeActivity.class);
                 startActivity(intent);
                 break;
+            case R.id.button4:
+                intent= new Intent(MainActivity.this, QuizActivity.class);
+                startActivity(intent);
         }
     }
 
