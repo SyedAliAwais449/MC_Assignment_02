@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment_02">
         <activity
+            android:name=".EndingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuizActivity3"
+            android:exported="false" />
+        <activity
             android:name=".QuizActivity2"
             android:exported="false" />
         <activity
